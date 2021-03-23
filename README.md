@@ -7,5 +7,5 @@ First Requirement -  count the frequency of each unique word in a sample text fi
 
 # Steps to Compile and run code
 1.import code from git repo to Eclipse.
-2.Run the UniqueWordCount as Java application.
+2.Run the UniqueWordCount.java (find count of each unique word) as Java application.
 3.Output will come in console and a text file will be generated to see output.
