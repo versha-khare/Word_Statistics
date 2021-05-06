@@ -1,0 +1,2 @@
+This is Junit test case
+Compile the test case and Test Runner classes
